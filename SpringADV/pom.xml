@@ -26,7 +26,7 @@
 			<artifactId>spring-context</artifactId>
 			<version>${springframework.version}</version>
 		</dependency>
-	</dependencies>
+	</dependencies> 
 	<build>
 		<pluginManagement>
 			<plugins>
